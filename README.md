@@ -1,9 +1,5 @@
 # CMS live editor
 
-> [!CAUTION]
-> ## Deprecated
-> These connectors are deprecated and will no longer be maintained or supported. They will be removed in Release 12.
->
 
 
 
