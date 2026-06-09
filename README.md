@@ -2,6 +2,11 @@
 
 > [!CAUTION]
 > ## Deprecated
+> These connectors are deprecated and will no longer be maintained or supported. It will be removed in Release 14.
+>
+
+> [!CAUTION]
+> ## Deprecated
 > These connectors are deprecated and will no longer be maintained or supported. They will be removed in Release 12.
 >
 
